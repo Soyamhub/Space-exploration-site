@@ -15,7 +15,7 @@ body {
 .hero{
     background-image: url("galaxy.webp");
     background-size: cover;
-    padding: 10px 0 40px 0;
+    padding: 10px 0 350px 0;
 }
 
 .btn {
